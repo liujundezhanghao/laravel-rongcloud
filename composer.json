@@ -22,7 +22,7 @@
                 "Liujun\\LaravelRongcloud\\ServiceProvider"
             ],
             "aliases": {
-                "Pinyin": "Liujun\\LaravelRongcloud\\Facades\\RongCloud"
+                "RongCloud": "Liujun\\LaravelRongcloud\\Facades\\RongCloud"
             }
         }
     }
