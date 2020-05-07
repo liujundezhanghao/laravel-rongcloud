@@ -1,5 +1,5 @@
 <?php
-namespace Liujun\LaravelPinyin\Facades;
+namespace Liujun\LaravelRongcloud\Facades;
 
 use Illuminate\Support\Facades\Facade;
 use RongCloud\RongCloud as Accessor;
