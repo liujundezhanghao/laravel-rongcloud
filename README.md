@@ -1,6 +1,6 @@
 <h1 align="center"> laravel-rongcloud </h1>
 
-<p align="center"> laravel融云sdk([菜鸟教程](https://www.runoob.com)基于融云官方sdk(https://github.com/rongcloud/server-sdk-php-composer),要求laravel>=5.5)</p>
+<p align="center"> laravel融云sdk  要求laravel>=5.5,基于融云官方sdk(https://github.com/rongcloud/server-sdk-php-composer)</p>
 
 
 ## Installing
